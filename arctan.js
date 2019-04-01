@@ -11,7 +11,7 @@
 //TO DO:
 //1. replace the arrow for a sprite
 //
-//By Marcello Silva
+//By Marcelo Silva
 
 
 //canvas definition
